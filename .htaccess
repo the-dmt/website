@@ -1,0 +1,7 @@
+AuthType Basic
+
+AuthName “Password Protected Area”
+
+AuthUserFile /c/Users/dion/website/.htpasswd
+
+Require valid-user
